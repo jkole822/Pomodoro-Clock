@@ -9,3 +9,14 @@ Pomodoro Clock created with React-Redux allowing the user to set alternating tim
 ## Visual
 
 ![Pomodoro Clock](/public/clock.png)
+
+## Technologies
+- React
+- Redux
+- Semantic UI
+
+## License
+MIT
+
+## Contact
+Email: jkole822@gmail.com
